@@ -23,8 +23,8 @@ def loesung(a, b, c):
         elif delta == 0:
             print('x =', -b / (2*a))
         else:
-            print('x1 =', (-b + math.sqrt(delta))/2*a)
-            print('x2 =', (-b - math.sqrt(delta))/2*a)
+            print('x1 =', (-b + math.sqrt(delta)) / (2*a))
+            print('x2 =', (-b - math.sqrt(delta)) / (2*a))
 
 
 loesung(a, b, c)
