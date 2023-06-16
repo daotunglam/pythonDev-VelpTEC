@@ -1,0 +1,5 @@
+Links in der Python-LICENSE-Datei:
+
+http://www.pythonlabs.com/logos.html
+
+Dazu gehören z.B. auch URLs, Zahlen, Folgen von Minuszeichen als Striche und anderes.

@@ -1,0 +1,7 @@
+Schreibe eine Funktion, die einen Text aus einem Dokument in einen String lädt und dann
+
+alles in Kleinbuchstaben umwandelt,
+eine Liste mit allen Worten erstellt,
+zählt, wie oft pro Wort der Buchstabe e vorkommt, und diese Infos für jedes Wort in einem Dictionary festhält und eine Liste von  Dictionaries erstellt.
+das Wort bestimmt, das den Buchstaben e am häufigsten enthält, und
+den Text in UTF-8 kodiert und als Return-Value zusammen mit der Wortliste zurückgibt, die für jedes Wort die Anzahl der e’s enthält.
